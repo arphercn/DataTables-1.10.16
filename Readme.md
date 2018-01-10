@@ -57,3 +57,7 @@ Support for DataTables is available through the [DataTables forums](//datatables
 ## License
 
 DataTables is release under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, as long as the copyright header is left intact (specifically the comment block which starts with `/*!`.
+
+## Update
+
+更新了源码的一些js、css引用链接，直接应用本地的js、css,下载到本地后可以直接打开index.html查看
